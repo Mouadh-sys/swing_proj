@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="poi-5.2.3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/poi-bin-5.2.3/ooxml-lib" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.3/poi-examples-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.3/poi-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.3/poi-excelant-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.3/poi-ooxml-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.3/poi-ooxml-full-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.3/poi-ooxml-lite-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.3/ooxml-lib/xmlbeans-5.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.3/ooxml-lib/commons-compress-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.3/ooxml-lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.3/lib/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.3/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.3/lib/commons-io-2.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/poi-bin-5.2.3/poi-javadoc-5.2.3.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/poi-bin-5.2.3/ooxml-lib" recursive="false" />
+  </library>
+</component>
